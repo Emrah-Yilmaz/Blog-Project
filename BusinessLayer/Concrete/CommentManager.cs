@@ -31,10 +31,3 @@ namespace BusinessLayer.Concrete
 
     }
 }
-
-namespace BusinessLayer
-{
-    public class CommentManager
-    {
-    }
-}
