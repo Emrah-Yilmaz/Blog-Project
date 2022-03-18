@@ -10,3 +10,15 @@ C:\Users\Emrah\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.cs
 C:\Users\Emrah\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
 C:\Users\Emrah\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\Emrah\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

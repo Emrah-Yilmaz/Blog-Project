@@ -10,3 +10,15 @@ C:\Users\Emrah\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
 C:\Users\Emrah\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
 C:\Users\Emrah\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
 C:\Users\Emrah\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\Blog-Project-main\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll

@@ -75,21 +75,8 @@
 
                 </div>
                 <div class="tech-btm">
-                    <h4>Categories</h4>
-                    <ul class="list-group single">
-                        <li class="list-group-item d-flex justify-content-between align-items-center">
-                            Cras justo odio
-                            <span class="badge badge-primary badge-pill">14</span>
-                        </li>
-                        <li class="list-group-item d-flex justify-content-between align-items-center">
-                            Dapibus ac facilisis in
-                            <span class="badge badge-primary badge-pill">2</span>
-                        </li>
-                        <li class="list-group-item d-flex justify-content-between align-items-center">
-                            Morbi leo risus
-                            <span class="badge badge-primary badge-pill">1</span>
-                        </li>
-                    </ul>
+                    @await Component.InvokeAsync("CategoryList")
+                   
                 </div>
                 <div class="tech-btm">
                     <h4>Top stories of the week</h4>
@@ -132,29 +119,7 @@
 
                     </div>
                 </div>
-                <div class="single-gd my-5 tech-btm">
-                    <h4>Our Progress</h4>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0"
-                             aria-valuemax="100"></div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0"
-                             aria-valuemax="100"></div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
-                             aria-valuemax="100"></div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-                             aria-valuemax="100"></div>
-                    </div>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0"
-                             aria-valuemax="100"></div>
-                    </div>
-                </div>
+
                 <div class="single-gd tech-btm">
                     <h4>Recent Post</h4>
                     <div class="blog-grids">
