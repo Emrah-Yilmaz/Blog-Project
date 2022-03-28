@@ -1,0 +1,14 @@
+﻿
+
+<div class="tech-btm">
+    <h4>Mail Bültenimize Kayıt Ol</h4>
+    <p>Bültene kayıt olarak son gelişmelerden haberdar olabilirsin. </p>
+    @using (Html.BeginForm("SubscribeMail","NewsLetterController1",FormMethod.Post))
+    {
+        <input type="email" placeholder="Mail Adresi" required="" name="Mail">
+        <input type="submit" value="Kayıt Ol">
+    }
+@*    <form action="/NewsLetterController1/SubscribeMail/" method="post">
+        
+    </form>*@
+</div>

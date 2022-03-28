@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\emrahyilmaz_cloud1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

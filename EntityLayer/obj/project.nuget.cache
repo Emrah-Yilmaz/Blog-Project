@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rmCZ7zhdCyRvfTchq2LQFHESPKwik5XMUCrIPwC+yO49HIyuFRvUOdZrrIjP8LR2arVEjfXOKQUi+0i8I70VPA==",
+  "dgSpecHash": "KXw/mkqbYPY3trzPPB0W+wALuToZ5SyBGZa+dZRvkxc12VBJxzL7yIVo/RtxH7vBNhlj/QPk+8yMCycuABvS8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

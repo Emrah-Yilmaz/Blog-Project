@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cVfP2DmqWF7w/btdY+I+EdDd90CLBzN858qXGAaa4hHKqTch/yLAgDMl+b/y1WlyDR0e+6fak7IGzllr7y1+1Q==",
+  "dgSpecHash": "A5A8Zldf0ci4tyiJQGCdAi4YX8B7npfDG4coE/VcCpUJued14nyGxfIQAHLMrubScB4+Yb9vNzb0s6xI4XvrRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrahyilmaz_cloud1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emrahyilmaz_cloud1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

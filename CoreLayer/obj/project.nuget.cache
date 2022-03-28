@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TghDBr0zElyIWZihdTXrYOs8GVrneBgDEzKExGdSNf9yrHV1oj5DRDjYn8vvmT7QBEWUkwy4UbWoFv9bb+vtrQ==",
+  "dgSpecHash": "tZCA+b8ItQMEdXnlNOVBvmUOplcJi9rasDB8JwbH1+kdqVVuVtvU06l94FcurLAYX3n3yIeGjG1Dp6C4tFYZRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

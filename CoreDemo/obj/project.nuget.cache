@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZtpD+1mIseKsROsh3F0/Eczk2H1uYT6MIOluJ8BZhum1ZiK+Y0RAhl8iWZ5fNo/QhWnBtbBLARS6x9vt0Sf8A==",
+  "dgSpecHash": "VtTwsrC4Khnosg6EZQQKdCY8rKnSDbUvmNP9gv/U40HVO+M0bvrEi8jifx9+lY0BGqVeJlXYcLAwYFCr/KKhkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrahyilmaz_cloud1\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\emrahyilmaz_cloud1\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",

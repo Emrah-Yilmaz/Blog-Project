@@ -7339,11 +7339,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\CoreDemo\\CoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\CoreDemo\\CoreDemo.csproj",
       "projectName": "CoreDemo",
-      "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\CoreDemo\\CoreDemo.csproj",
+      "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\CoreDemo\\CoreDemo.csproj",
       "packagesPath": "C:\\Users\\emrahyilmaz_cloud1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\CoreDemo\\obj\\",
+      "outputPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\CoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7364,14 +7364,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\Blog-Project-main\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\emrahyilmaz_cloud1\\Desktop\\MyProject\\CoreBlog\\Blog-Project\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
