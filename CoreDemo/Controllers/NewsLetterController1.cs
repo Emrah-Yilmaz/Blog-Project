@@ -11,19 +11,19 @@ namespace CoreDemo.Controllers
         NewsLetterManager nm = new NewsLetterManager(new EfNewsLetterRepository());
 
         [HttpGet]
+
         public PartialViewResult SubscribeMail()
         {
             return PartialView ();
 
         }
+       
 
         [HttpPost]
-        public PartialViewResult SubscribeMail(NewsLetter newsLetter)
+        public IActionResult SubscribeMail(NewsLetter newsLetter)
         {
             newsLetter.MailStatus = true;
-            nm.AddNewsLetterMail(newsLetter);
-           
-
+            nm.AddNewsLetterMail(newsLetter);            
             return PartialView();
 
         }
