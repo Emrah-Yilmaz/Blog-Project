@@ -1,0 +1,60 @@
+﻿@model EntityLayer.Concrete.Blog
+
+@{
+    ViewData["Title"] = "BlogAdd";
+    Layout = "~/Views/Shared/_LayoutWriter.cshtml";
+}
+
+<h1>Blog Eklme Sayfası</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Basic form elements</h4>
+        <p class="card-description"> Basic form elements </p>
+
+        @using (Html.BeginForm("BlogAdd", "Blog", FormMethod.Post))
+        {
+
+            @*            <div class="form-group">
+                <label for="exampleInputName1">Başlk</label>
+                <input type="text" class="form-control" id="exampleInputName1" placeholder="Name">
+                </div>*@
+
+            @Html.Label("Başlık")
+            @Html.TextBoxFor(x => x.BlogTitle, new {@class="form-control"})
+            @Html.ValidationMessageFor(x => x.BlogTitle)
+
+            @*            <div class="form-group">
+                <label for="exampleSelectGender">Gender</label>
+                <select class="form-control" id="exampleSelectGender">
+                <option>Male</option>
+                <option>Female</option>
+                </select>
+                </div>*@
+
+            @* <div class="form-group">
+                <label>File upload</label>
+                <input type="text" name="img[]" class="file-upload-default">
+                <div class="input-group col-xs-12">
+                <input type="text" class="form-control file-upload-info" disabled placeholder="Upload Image">
+                <span class="input-group-append">
+                <button class="file-upload-browse btn btn-gradient-primary" type="button">Upload</button>
+                </span>
+                </div>
+                </div>*@
+            @Html.Label("Blog Görseli")
+            @Html.TextBoxFor(x => x.BlogImage, new{@class="form-control"})
+            @Html.Label("Kategori")
+            @Html.DropDownListFor(x => x.CategoryId,(List<SelectListItem>)ViewBag.categories, new{@class="form-control"})
+
+
+            @Html.Label("Blog İçeriği")
+            @Html.TextAreaFor(x => x.BlogContent, 15,3, new{@class="form-control"})
+            @Html.ValidationMessageFor(x => x.BlogContent)
+
+
+            <button type="submit" class="btn btn-gradient-primary mr-2">Submit</button>
+            <button class="btn btn-light">Cancel</button>
+        }
+    </div>
+</div>

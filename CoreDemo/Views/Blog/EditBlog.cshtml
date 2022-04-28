@@ -1,0 +1,39 @@
+﻿@model EntityLayer.Concrete.Blog
+@{
+    ViewData["Title"] = "EditBlog";
+    Layout = "~/Views/Shared/_LayoutWriter.cshtml";
+}
+
+<h1>Blog Düzenleme Sayfası</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Basic form elements</h4>
+        <p class="card-description"> Basic form elements </p>
+
+        @using (Html.BeginForm("EditBlog", "Blog", FormMethod.Post))
+        {
+            @Html.Label("Blog ID")
+            @Html.TextBoxFor(x => x.BlogId, new {@class="form-control", @readonly="readonly"})
+
+            @Html.Label("Başlık")
+            @Html.TextBoxFor(x => x.BlogTitle, new {@class="form-control"})
+            @Html.ValidationMessageFor(x => x.BlogTitle)
+
+            
+            @Html.Label("Blog Görseli")
+            @Html.TextBoxFor(x => x.BlogImage, new{@class="form-control"})
+            
+                        @Html.Label("Kategori")
+            @Html.DropDownListFor(x => x.CategoryId,(List<SelectListItem>)ViewBag.categories, new{@class="form-control"})
+
+                
+            @Html.Label("Blog İçeriği")
+            @Html.TextAreaFor(x => x.BlogContent, 15,3, new{@class="form-control"})
+            @Html.ValidationMessageFor(x => x.BlogContent)
+
+
+            <button type="submit" class="btn btn-gradient-primary mr-2">Submit</button>
+        }
+    </div>
+</div>
