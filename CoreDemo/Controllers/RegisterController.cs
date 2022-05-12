@@ -12,7 +12,8 @@ namespace CoreDemo.Controllers
     public class RegisterController : Controller
     {
 
-        RegisterManager rm = new RegisterManager(new EfWriterRepository());
+
+        WriterManager wm = new WriterManager(new EfWriterRepository());
         public IActionResult Index()
         {
             return View();
@@ -30,7 +31,7 @@ namespace CoreDemo.Controllers
                 p.WriterStatus = true;
                 p.WriterImage = "buraya dosya yolu eklenecek";
                 p.WriterAbout = "Yazar bilgileri gelecek";
-                rm.WriterAdd(p);
+                wm.TAdd(p);
                 return RedirectToAction("Index", "Blog");
 
 

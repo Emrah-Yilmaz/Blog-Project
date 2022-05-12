@@ -68,6 +68,11 @@ namespace BusinessLayer.Concrete
         {
             return _blogDal.GetListWithCategoryByWriter(id);
         }
+
+        public IList<Blog> TotalOfBlogs(int id)
+        {
+            return _blogDal.GetListAll();
+        }
     }
 }
 

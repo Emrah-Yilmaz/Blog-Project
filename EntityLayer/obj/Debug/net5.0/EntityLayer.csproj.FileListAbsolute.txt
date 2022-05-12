@@ -34,3 +34,15 @@ C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\CoreBlog\Blog-Project\EntityLayer\
 C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\CoreBlog\Blog-Project\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
 C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\CoreBlog\Blog-Project\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\emrahyilmaz_cloud1\Desktop\MyProject\CoreBlog\Blog-Project\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
