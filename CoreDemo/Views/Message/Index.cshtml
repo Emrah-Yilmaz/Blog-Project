@@ -1,0 +1,43 @@
+﻿@using EntityLayer.Concrete
+@model List<Message>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutWriter.cshtml";
+}
+
+
+<h1>Gelen Kutusu</h1>
+
+<table class="table table-hover">
+                      <thead>
+                        <tr>
+                          <th> Profil Fotoğrafı </th>
+                          <th> Ad Soyad</th>
+                          <th> Mail Adresi </th>
+                          <th> Konu </th>
+                          <th> Tarih </th>
+                          <th> Görüntüle </th>
+                          <th> Sil </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                          @foreach (var item in Model)
+                         {
+                        <tr>
+                          <td class="py-1">
+                            <img src="@item.SenderUser.WriterImage" alt="image">
+                          </td>
+                          <td> @item.SenderUser.WriterName </td>
+                          <td>
+                                @item.SenderUser.WriterMail
+                          </td>
+                          <td> @item.Subject </td>
+                          <td> @item.MessageDate </td>
+                          <td> <a href="~/Message/MessageDetails/@item.MessageId"  class="btn-primary" >Görüntüle</a> </td>
+                          <td> <a href="@item.MessageId"  class="btn-danger" >Sil</a> </td>
+                        </tr>                             
+                         }
+
+
+                      </tbody>
+                    </table>

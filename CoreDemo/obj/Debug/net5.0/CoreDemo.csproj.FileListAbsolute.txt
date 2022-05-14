@@ -697,3 +697,5 @@ C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\CoreDemo\obj\Debug\net5.0\R
 C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\TotalNumberOfCategory\Default.cshtml.g.cs
 C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterEditProfile.cshtml.g.cs
 C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\AddWriterImage.cshtml.g.cs
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\Index.cshtml.g.cs
+C:\Users\emrah\OneDrive\Belgeler\GitHub\Blog-Project\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\MessageDetails.cshtml.g.cs

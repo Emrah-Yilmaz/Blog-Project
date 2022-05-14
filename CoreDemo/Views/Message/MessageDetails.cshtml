@@ -1,0 +1,41 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Message>
+@{
+    ViewData["Title"] = "MessageDetails";
+    Layout = "~/Views/Shared/_LayoutWriter.cshtml";
+}
+
+<h1>Gelen Mesaj</h1>
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+
+
+            <form class="forms-sample">
+                @foreach (var item in Model)
+                {
+
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3"><i class="mdi mdi-account"></i>@item.SenderUser.WriterName</label>
+                        </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail3"><i class="mdi mdi-email"></i> @item.SenderUser.WriterMail</label>
+                        
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputName1"> <i class="mdi mdi-information"></i>  @item.Subject</label>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="exampleTextarea1">Mesaj İçeriği</label>
+                        <textarea class="form-control" id="exampleTextarea1" rows="4" readonly="readonly">@item.MessageDetails</textarea>
+                    </div>
+                    <button type="submit" class="btn btn-gradient-primary mr-2">Okundu olarak işratle</button>
+
+                }
+            </form>
+        </div>
+    </div>
+</div>
+

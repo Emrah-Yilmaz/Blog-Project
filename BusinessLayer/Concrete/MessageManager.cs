@@ -33,6 +33,11 @@ namespace BusinessLayer.Concrete
             return _messageDal.GetListAll();
         }
 
+        public List<Message> GetMessageById(int id)
+        {
+            return _messageDal.GetItemMessageByWriter(id);
+        }
+
         public void TAdd(Message t)
         {
             throw new NotImplementedException();
