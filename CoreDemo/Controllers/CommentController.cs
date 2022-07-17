@@ -19,6 +19,7 @@ namespace CoreDemo.Controllers
         }
         public IActionResult CommentListByBlog(int id)
         {
+            
             var values = cm.GetList(id);
             return PartialView(values);
         }

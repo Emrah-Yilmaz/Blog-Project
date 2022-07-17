@@ -2,23 +2,35 @@
 i:{00000000-0000-0000-0000-000000000000}:CoreDemo.sln
 ++EntityLayer
 i:{00000000-0000-0000-0000-000000000000}:EntityLayer
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\bin\debug\net5.0\entitylayer.dll
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\bin\debug\net5.0\entitylayer.dll
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\bin\debug\net5.0\entitylayer.dll
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\bin\debug\net5.0\entitylayer.dll
 ++Dependencies
-i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:>1091
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:>1112
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>1092
-i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:>939
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1817
+i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:>1155
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>1157
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:>1156
+i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:>1069
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2019
 ++Abstract
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\abstract\
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\abstract\
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\
 ++Concrete
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\concrete\
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\concrete\
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\
+++Analyzers
+i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:analyzers
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:analyzers
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:analyzers
+i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:analyzers
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:analyzers
+++Frameworks
+i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:frameworks
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:frameworks
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:frameworks
+i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:frameworks
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:frameworks
 ++About.cs
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\concrete\about.cs
 ++Blog.cs
@@ -31,96 +43,35 @@ i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\concrete\comment.cs
 ++Contact.cs
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\concrete\contact.cs
+++Message.cs
+i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\concrete\message.cs
 ++NewsLetter.cs
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\concrete\newsletter.cs
+++Notification.cs
+i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\concrete\notification.cs
 ++Writer.cs
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\concrete\writer.cs
-++Analyzers
-i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:analyzers
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:analyzers
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:analyzers
-i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:analyzers
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:analyzers
-++Frameworks
-i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:frameworks
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:frameworks
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:frameworks
-i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:frameworks
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:frameworks
 ++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
 i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
 ++Microsoft.CodeAnalysis.NetAnalyzers
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 ++Microsoft.NETCore.App
 i:{a69efe93-7fad-493b-a7cf-6f0becde225e}:c:\users\emrah\onedrive\belgeler\github\blog-project\entitylayer\microsoft.netcore.app
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\microsoft.netcore.app
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\microsoft.netcore.app
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\microsoft.netcore.app
 i:{8a54da1b-a773-4a10-8fd9-be69c3e88e06}:c:\users\emrah\onedrive\belgeler\github\blog-project\corelayer\microsoft.netcore.app
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\microsoft.netcore.app
-++BusinessLayer
-i:{00000000-0000-0000-0000-000000000000}:BusinessLayer
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\bin\debug\net5.0\businesslayer.dll
-++ValidationRules
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\validationrules\
-++Packages
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:packages
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:packages
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:packages
-++Projects
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:projects
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:projects
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:projects
-++IBlogService.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\iblogservice.cs
-++ICategoryService.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\icategoryservice.cs
-++ICommentService.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\icommentservice.cs
-++IGenericService.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\igenericservice.cs
-++INewsLetterService.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\inewsletterservice.cs
-++IRegisterService.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\iregisterservice.cs
-++IWriterService.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\iwriterservice.cs
-++BlogManager.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\blogmanager.cs
-++CategoryManager.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\categorymanager.cs
-++CommentManager.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\commentmanager.cs
-++NewsLetterManager.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\newslettermanager.cs
-++RegisterManager.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\registermanager.cs
-++WriterManager.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\writermanager.cs
-++BlogValidate.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\validationrules\blogvalidate.cs
-++WriterValidate.cs
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\validationrules\writervalidate.cs
-++Microsoft.EntityFrameworkCore.Analyzers
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-++FluentValidation (10.4.0)
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:>1871
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1856
-++FluentValidation.AspNetCore (10.4.0)
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:>1870
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1855
 ++DataAccessLayer
-i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\bin\debug\net5.0\dataaccesslayer.dll
 i:{00000000-0000-0000-0000-000000000000}:DataAccessLayer
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\bin\debug\net5.0\dataaccesslayer.dll
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\bin\debug\net5.0\dataaccesslayer.dll
 ++EntityFramework
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\entityframework\
@@ -128,6 +79,14 @@ i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\
 ++Repositories
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\repositories\
+++Packages
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:packages
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:packages
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:packages
+++Projects
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:projects
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:projects
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:projects
 ++IAboutDal.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\abstract\iaboutdal.cs
 ++IBlogDal.cs
@@ -140,8 +99,12 @@ i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\abstract\icontactdal.cs
 ++IGenericDal.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\abstract\igenericdal.cs
+++IMessageDal.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\abstract\imessagedal.cs
 ++INewsLetterDal.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\abstract\inewsletterdal.cs
+++INotificationDal.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\abstract\inotificationdal.cs
 ++IWriterDal.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\abstract\iwriterdal.cs
 ++Context.cs
@@ -156,8 +119,12 @@ i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\entityframework\efcommentrepository.cs
 ++EfContactRepository.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\entityframework\efcontactrepository.cs
+++EfMessageRepository.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\entityframework\efmessagerepository.cs
 ++EfNewsLetterRepository.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\entityframework\efnewsletterrepository.cs
+++EfNotificationRepository.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\entityframework\efnotificationrepository.cs
 ++EfWriterRepository.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\entityframework\efwriterrepository.cs
 ++20220220132542_mig1.cs
@@ -176,22 +143,32 @@ i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220508185256_mig_add_score_column.cs
 ++20220508191209_mig_ratingtable.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220508191209_mig_ratingtable.cs
+++20220511120248_mig_Notification_add_table.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220511120248_mig_notification_add_table.cs
+++20220511135400_mig_Notification_add_color.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220511135400_mig_notification_add_color.cs
+++20220512133337_mig_add_messagetablerelation.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220512133337_mig_add_messagetablerelation.cs
 ++ContextModelSnapshot.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\contextmodelsnapshot.cs
 ++GenericRepository.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\repositories\genericrepository.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 ++Microsoft.EntityFrameworkCore (5.0.0)
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>1832
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1852
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>2063
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2052
 ++Microsoft.EntityFrameworkCore.Design (5.0.0)
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>1834
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1854
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>2069
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2057
 ++Microsoft.EntityFrameworkCore.SqlServer (5.0.0)
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>1833
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1853
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>2066
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2053
 ++Microsoft.EntityFrameworkCore.Tools (5.0.0)
-i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>1835
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1857
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:>2071
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2067
 ++20220220132542_mig1.Designer.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220220132542_mig1.designer.cs
 ++20220220135449_mig2.Designer.cs
@@ -208,16 +185,230 @@ i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220508185256_mig_add_score_column.designer.cs
 ++20220508191209_mig_ratingtable.Designer.cs
 i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220508191209_mig_ratingtable.designer.cs
+++20220511120248_mig_Notification_add_table.Designer.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220511120248_mig_notification_add_table.designer.cs
+++20220511135400_mig_Notification_add_color.Designer.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220511135400_mig_notification_add_color.designer.cs
+++20220512133337_mig_add_messagetablerelation.Designer.cs
+i:{4ce1ac42-76e1-4b88-9866-9bca304e26b3}:c:\users\emrah\onedrive\belgeler\github\blog-project\dataaccesslayer\migrations\20220512133337_mig_add_messagetablerelation.designer.cs
+++BusinessLayer
+i:{00000000-0000-0000-0000-000000000000}:BusinessLayer
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\bin\debug\net5.0\businesslayer.dll
+++ValidationRules
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\validationrules\
+++IBlogService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\iblogservice.cs
+++ICategoryService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\icategoryservice.cs
+++ICommentService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\icommentservice.cs
+++IGenericService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\igenericservice.cs
+++IMessageService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\imessageservice.cs
+++INewsLetterService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\inewsletterservice.cs
+++INotificationService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\inotificationservice.cs
+++IRegisterService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\iregisterservice.cs
+++IWriterService.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\abstract\iwriterservice.cs
+++BlogManager.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\blogmanager.cs
+++CategoryManager.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\categorymanager.cs
+++CommentManager.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\commentmanager.cs
+++MessageManager.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\messagemanager.cs
+++NewsLetterManager.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\newslettermanager.cs
+++NotificationManager.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\notificationmanager.cs
+++RegisterManager.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\registermanager.cs
+++WriterManager.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\concrete\writermanager.cs
+++BlogValidate.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\validationrules\blogvalidate.cs
+++WriterValidate.cs
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:c:\users\emrah\onedrive\belgeler\github\blog-project\businesslayer\validationrules\writervalidate.cs
+++FluentValidation (10.4.0)
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:>2072
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2064
+++FluentValidation.AspNetCore (10.4.0)
+i:{ff3a42f0-4ef4-4f4b-9fdc-46884fed720e}:>2068
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2061
 ++CoreLayer
 i:{00000000-0000-0000-0000-000000000000}:CoreLayer
 ++CoreDemo
 i:{00000000-0000-0000-0000-000000000000}:CoreDemo
 ++Connected Services 
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1818
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2020
+++Imports
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1160
 ++Properties
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\properties\
 ++wwwroot
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\
+++bin
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\
+++Controllers
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\
+++Models
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\models\
+++obj
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\
+++ViewComponents
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\
+++Views
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\
+++About
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\about\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\about\
+++Blog
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\blog\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\blog\
+++Category
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\category\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\category\
+++Comment
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\comment\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\comment\
+++Contact
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\contact\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\contact\
+++Dashboard
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\dashboard\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\dashboard\
+++Index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\dashboard\index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\about\index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\blog\index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\category\index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\contact\index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\home\index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\login\index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\message\index.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\register\index.cshtml
+++ErrorPage
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\errorpage\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\errorpage\
+++Home
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\home\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\home\
+++Login
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\login\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\login\
+++Message
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\message\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\message\
+++NewsLetterController1
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\newslettercontroller1\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\newslettercontroller1\
+++Register
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\register\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\register\
+++Shared
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\
+++Components
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\
+++BlogListDashboard
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\bloglistdashboard\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglistdashboard\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\bloglistdashboard\
+++CategoryList
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\categorylist\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\categorylist\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\categorylist\
+++CategoryListDashboard
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\categorylistdashboard\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\categorylistdashboard\
+++CommentListByBlog
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\commentlistbyblog\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\commentlistbyblog\
+++GetLast3Blogs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\getlast3blogs\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\getlast3blogs\
+++NumberOfBlogByWriter
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\numberofblogbywriter\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\numberofblogbywriter\
+++StatisticsOfBlog
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\statisticsofblog\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\statisticsofblog\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\statisticsofblog\
+++TotalNumberOfCategory
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\totalnumberofcategory\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\totalnumberofcategory\
+++WriterAboutOnDashboard
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writeraboutondashboard\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\writeraboutondashboard\
+++Default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writeraboutondashboard\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\bloglistdashboard\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\categorylist\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\categorylistdashboard\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\commentlistbyblog\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\getlast3blogs\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\numberofblogbywriter\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\statisticsofblog\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\totalnumberofcategory\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writerlastblog\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writermessagenotification\default.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writernotification\default.cshtml
+++WriterLastBlog
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writerlastblog\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\writerlastblog\
+++WriterMessageNotification
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writermessagenotification\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\writermessagenotification\
+++WriterNotification
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writernotification\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\writernotification\
+++_Layout.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\_layout.cshtml
+++_LayoutWriter.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\_layoutwriter.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\error.cshtml
+++PartialFooter.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\partialfooter.cshtml
+++PartialNavbar.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\partialnavbar.cshtml
+++PartialUserInfo.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\partialuserinfo.cshtml
+++UserLayout.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\userlayout.cshtml
+++Writer
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\writer\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\writer\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\writer\
+++_ViewImports.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\_viewstart.cshtml
+++appsettings.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\appsettings.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\appsettings.json
+++Program.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\program.cs
+++Startup.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\startup.cs
+++No service dependencies discovered
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2021
+++Sdk.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++launchSettings.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\properties\launchsettings.json
 ++BlogImageFiles
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\blogimagefiles\
 ++CoreBlogTema
@@ -238,6 +429,10 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\vendors\js\
 ++lib
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\lib\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\unix\lib\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win\lib\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm\lib\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm64\lib\
 ++weberror
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\weberror\
 ++WriterImageFiles
@@ -249,8 +444,9 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 ++favicon.ico
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\favicon.ico
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\images\favicon.ico
-++Controllers
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\
+++Debug
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\
 ++AboutController.cs
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\aboutcontroller.cs
 ++BlogController.cs
@@ -269,130 +465,56 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\homecontroller.cs
 ++LoginController.cs
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\logincontroller.cs
+++MessageController.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\messagecontroller.cs
 ++NewsLetterController1.cs
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\newslettercontroller1.cs
+++NotificationController.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\notificationcontroller.cs
 ++RegisterController.cs
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\registercontroller.cs
 ++WriterController.cs
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\controllers\writercontroller.cs
-++Models
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\models\
 ++AddProfileImage.cs
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\models\addprofileimage.cs
 ++ErrorViewModel.cs
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\models\errorviewmodel.cs
-++ViewComponents
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\
-++Views
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\
-++About
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\about\
-++Index.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\about\index.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\blog\index.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\category\index.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\contact\index.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\dashboard\index.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\login\index.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\register\index.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\home\index.cshtml
-++Blog
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\blog\
+++CoreDemo.csproj.nuget.dgspec.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\coredemo.csproj.nuget.dgspec.json
+++CoreDemo.csproj.nuget.g.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\coredemo.csproj.nuget.g.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\coredemo.csproj.nuget.g.props
+++CoreDemo.csproj.nuget.g.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\coredemo.csproj.nuget.g.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\coredemo.csproj.nuget.g.targets
+++project.assets.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\project.assets.json
+++project.nuget.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\project.nuget.cache
+++BlogList
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglist\
+++CommentList
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\commentlist\
 ++BlogAdd.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\blog\blogadd.cshtml
 ++BlogDetails.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\blog\blogdetails.cshtml
 ++EditBlog.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\blog\editblog.cshtml
-++Category
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\category\
-++Comment
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\comment\
 ++CommentListByBlog.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\comment\commentlistbyblog.cshtml
 ++PartialCommentAdd.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\comment\partialcommentadd.cshtml
-++Contact
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\contact\
-++Dashboard
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\dashboard\
-++ErrorPage
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\errorpage\
 ++Error1.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\errorpage\error1.cshtml
-++Home
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\home\
-++Login
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\login\
-++NewsLetterController1
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\newslettercontroller1\
+++Privacy.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\home\privacy.cshtml
+++MessageDetails.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\message\messagedetails.cshtml
 ++SubscribeMail.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\newslettercontroller1\subscribemail.cshtml
-++Register
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\register\
-++Shared
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\
-++Components
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\
-++BlogListDashboard
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\bloglistdashboard\
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglistdashboard\
-++Default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\bloglistdashboard\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\categorylist\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\categorylistdashboard\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writeraboutondashboard\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writerlastblog\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writermessagenotification\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writernotification\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\commentlistbyblog\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\getlast3blogs\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\numberofblogbywriter\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\statisticsofblog\default.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\totalnumberofcategory\default.cshtml
-++CategoryList
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\categorylist\
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\categorylist\
-++CategoryListDashboard
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\categorylistdashboard\
-++CommentListByBlog
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\commentlistbyblog\
-++GetLast3Blogs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\getlast3blogs\
-++NumberOfBlogByWriter
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\numberofblogbywriter\
-++StatisticsOfBlog
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\statisticsofblog\
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\statisticsofblog\
-++TotalNumberOfCategory
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\totalnumberofcategory\
-++WriterAboutOnDashboard
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writeraboutondashboard\
-++WriterLastBlog
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writerlastblog\
-++WriterMessageNotification
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writermessagenotification\
-++WriterNotification
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\components\writernotification\
-++_Layout.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\_layout.cshtml
-++_LayoutWriter.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\_layoutwriter.cshtml
-++_ValidationScriptsPartial.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\_validationscriptspartial.cshtml
-++Error.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\error.cshtml
-++PartialFooter.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\partialfooter.cshtml
-++PartialNavbar.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\partialnavbar.cshtml
-++PartialUserInfo.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\partialuserinfo.cshtml
-++UserLayout.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\shared\userlayout.cshtml
-++Writer
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\writer\
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\writer\
+++AddWriterImage.cshtml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\writer\addwriterimage.cshtml
 ++PartialSideBar.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\writer\partialsidebar.cshtml
 ++Test.cshtml
@@ -401,20 +523,41 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\writer\writerblog.cshtml
 ++WriterEditProfile.cshtml
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\writer\writereditprofile.cshtml
-++_ViewImports.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\_viewimports.cshtml
-++_ViewStart.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\_viewstart.cshtml
-++appsettings.json
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\appsettings.json
-++Program.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\program.cs
-++Startup.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\startup.cs
-++No service dependencies discovered
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1819
-++launchSettings.json
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\properties\launchsettings.json
+++appsettings.Development.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\appsettings.development.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\microsoft.aspnetcore.app
+++jQuery (3.5.1)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2051
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>2070
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
 ++images
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\coreblogtema\images\
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\weberror\images\
@@ -484,6 +627,8 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\weberror\fonts\
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\fonts\
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\vendors\mdi\fonts\
+++0ed37b8b-0825-4649-ad0c-94953983da7b.jpg
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerimagefiles\0ed37b8b-0825-4649-ad0c-94953983da7b.jpg
 ++assets
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\
 ++gulp-tasks
@@ -512,30 +657,61 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\readme.md
 ++screenshot.jpg
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\screenshot.jpg
-++BlogList
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglist\
-++CommentList
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\commentlist\
-++Privacy.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\home\privacy.cshtml
-++appsettings.Development.json
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\appsettings.development.json
-++Microsoft.AspNetCore.Analyzers
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
-++Microsoft.AspNetCore.Components.Analyzers
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
-++Microsoft.AspNetCore.Mvc.Analyzers
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
-++Microsoft.CodeAnalysis.Analyzers
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
-++Microsoft.CodeAnalysis.CSharp.Analyzers
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
-++Microsoft.AspNetCore.App
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\microsoft.aspnetcore.app
-++jQuery (3.5.1)
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1851
-++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:>1858
+++net5.0
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\
+++GetLast3Blogs.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglist\getlast3blogs.cs
+++WriterLastBlog.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglist\writerlastblog.cs
+++BlogListDashboard.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglistdashboard\bloglistdashboard.cs
+++CategoryList.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\categorylist\categorylist.cs
+++CategoryListDashboard.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\categorylist\categorylistdashboard.cs
+++CommentListByBlog.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\commentlist\commentlistbyblog.cs
+++NumberOfBlogByWriter.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\statisticsofblog\numberofblogbywriter.cs
+++StatisticsOfBlog.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\statisticsofblog\statisticsofblog.cs
+++TotalNumberOfCategory.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\statisticsofblog\totalnumberofcategory.cs
+++WriterAboutOnDashboard.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\writer\writeraboutondashboard.cs
+++WriterMessageNotification.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\writer\writermessagenotification.cs
+++WriterNotification.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\writer\writernotification.cs
+++Microsoft.Common.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
 ++bootstrap.css
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\coreblogtema\css\bootstrap.css
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\lib\bootstrap\dist\css\bootstrap.css
@@ -697,30 +873,349 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\partials\_sidebar.html
 ++Purple_dashboard_free.psd
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\psd\purple_dashboard_free.psd
-++GetLast3Blogs.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglist\getlast3blogs.cs
-++WriterLastBlog.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglist\writerlastblog.cs
-++BlogListDashboard.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\bloglistdashboard\bloglistdashboard.cs
-++CategoryList.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\categorylist\categorylist.cs
-++CategoryListDashboard.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\categorylist\categorylistdashboard.cs
-++CommentListByBlog.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\commentlist\commentlistbyblog.cs
-++NumberOfBlogByWriter.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\statisticsofblog\numberofblogbywriter.cs
-++StatisticsOfBlog.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\statisticsofblog\statisticsofblog.cs
-++TotalNumberOfCategory.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\statisticsofblog\totalnumberofcategory.cs
-++WriterAboutOnDashboard.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\writer\writeraboutondashboard.cs
-++WriterMessageNotification.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\writer\writermessagenotification.cs
-++WriterNotification.cs
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\viewcomponents\writer\writernotification.cs
+++cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\cs\
+++de
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\de\
+++es
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\es\
+++fr
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\fr\
+++it
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\it\
+++ja
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ja\
+++ko
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ko\
+++pl
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pl\
+++pt-BR
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pt-br\
+++ru
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ru\
+++runtimes
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\
+++tr
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\tr\
+++zh-Hans
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hans\
+++zh-Hant
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hant\
+++BusinessLayer.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\businesslayer.dll
+++BusinessLayer.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\businesslayer.pdb
+++CoreDemo.deps.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.deps.json
+++CoreDemo.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\ref\coredemo.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\refint\coredemo.dll
+++CoreDemo.exe
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.exe
+++CoreDemo.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.pdb
+++CoreDemo.runtimeconfig.dev.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.runtimeconfig.dev.json
+++CoreDemo.runtimeconfig.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.runtimeconfig.json
+++CoreDemo.StaticWebAssets.xml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.staticwebassets.xml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\staticwebassets\coredemo.staticwebassets.xml
+++CoreDemo.Views.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.views.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.views.dll
+++CoreDemo.Views.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\coredemo.views.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.views.pdb
+++DataAccessLayer.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\dataaccesslayer.dll
+++DataAccessLayer.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\dataaccesslayer.pdb
+++dotnet-aspnet-codegenerator-design.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+++EntityLayer.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\entitylayer.dll
+++EntityLayer.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\entitylayer.pdb
+++FluentValidation.AspNetCore.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\fluentvalidation.aspnetcore.dll
+++FluentValidation.DependencyInjectionExtensions.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\fluentvalidation.dependencyinjectionextensions.dll
+++FluentValidation.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\fluentvalidation.dll
+++Humanizer.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\humanizer.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.Data.SqlClient.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.data.sqlclient.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Identity.Client.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.identitymodel.tokens.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Newtonsoft.Json.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\newtonsoft.json.dll
+++System.Composition.AttributedModel.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.configuration.configurationmanager.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.runtime.caching.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\system.security.cryptography.protecteddata.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++Razor
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\
+++ref
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\ref\
+++refint
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\refint\
+++staticwebassets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\staticwebassets\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+++apphost.exe
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\apphost.exe
+++CoreDemo.AssemblyInfo.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.assemblyinfo.cs
+++CoreDemo.AssemblyInfoInputs.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.assemblyinfoinputs.cache
+++CoreDemo.assets.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.assets.cache
+++CoreDemo.csproj.AssemblyReference.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.csproj.assemblyreference.cache
+++CoreDemo.csproj.BuildWithSkipAnalyzers
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.csproj.buildwithskipanalyzers
+++CoreDemo.csproj.CopyComplete
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.csproj.copycomplete
+++CoreDemo.csproj.CoreCompileInputs.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.csproj.corecompileinputs.cache
+++CoreDemo.csproj.FileListAbsolute.txt
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.csproj.filelistabsolute.txt
+++CoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.generatedmsbuildeditorconfig.editorconfig
+++CoreDemo.genruntimeconfig.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.genruntimeconfig.cache
+++CoreDemo.MvcApplicationPartsAssemblyInfo.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.mvcapplicationpartsassemblyinfo.cache
+++CoreDemo.MvcApplicationPartsAssemblyInfo.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.mvcapplicationpartsassemblyinfo.cs
+++CoreDemo.RazorAssemblyInfo.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.razorassemblyinfo.cache
+++CoreDemo.RazorAssemblyInfo.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.razorassemblyinfo.cs
+++CoreDemo.RazorCoreGenerate.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.razorcoregenerate.cache
+++CoreDemo.RazorTargetAssemblyInfo.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.razortargetassemblyinfo.cache
+++CoreDemo.RazorTargetAssemblyInfo.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.razortargetassemblyinfo.cs
+++CoreDemo.TagHelpers.input.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.taghelpers.input.cache
+++CoreDemo.TagHelpers.output.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\coredemo.taghelpers.output.cache
+++project.razor.json
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\project.razor.json
+++Microsoft.NuGet.ImportBefore.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.5_0.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.5_0.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
 ++jquery.js
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\lib\jquery\dist\jquery.js
 ++additional-methods.js
@@ -821,6 +1316,121 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\pages\ui-features\buttons.html
 ++typography.html
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\pages\ui-features\typography.html
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\cs\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\de\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\es\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\fr\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\it\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ja\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ko\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pl\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ru\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\tr\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\unix\
+++win
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win\
+++win-arm
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm\
+++win-arm64
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm64\
+++win-x64
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-x64\
+++win-x86
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-x86\
+++CoreDemo.StaticWebAssets.Manifest.cache
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\staticwebassets\coredemo.staticwebassets.manifest.cache
+++Microsoft.EntityFrameworkCore.Design.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\.nuget\packages\microsoft.entityframeworkcore.design\5.0.0\build\netcoreapp3.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
 ++bootstrap-grid.css
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 ++bootstrap-reboot.css
@@ -1003,6 +1613,25 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\vendors\css\vendor.bundle.base.css
 ++vendor.bundle.base.js
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\vendors\js\vendor.bundle.base.js
+++native
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm\native\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm64\native\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-x64\native\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-x86\native\
+++_ViewImports.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\_viewimports.cshtml.g.cs
+++_ViewStart.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\_viewstart.cshtml.g.cs
+++Microsoft.NET.ILLink.Tasks.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
 ++bootstrap.min.css
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 ++bootstrap-grid.min.css
@@ -1023,14 +1652,125 @@ i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff
 ++materialdesignicons-webfont.woff2
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerpanel\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff2
+++netcoreapp3.1
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Data.SqlClient.SNI.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.pdb
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.pdb
+++Index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\about\index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\blog\index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\category\index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\contact\index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\dashboard\index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\home\index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\login\index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\message\index.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\register\index.cshtml.g.cs
+++BlogAdd.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\blog\blogadd.cshtml.g.cs
+++BlogDetails.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\blog\blogdetails.cshtml.g.cs
+++EditBlog.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\blog\editblog.cshtml.g.cs
+++CommentListByBlog.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\comment\commentlistbyblog.cshtml.g.cs
+++PartialCommentAdd.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\comment\partialcommentadd.cshtml.g.cs
+++Error1.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\errorpage\error1.cshtml.g.cs
+++Privacy.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\home\privacy.cshtml.g.cs
+++MessageDetails.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\message\messagedetails.cshtml.g.cs
+++SubscribeMail.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\newslettercontroller1\subscribemail.cshtml.g.cs
+++_Layout.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\_layout.cshtml.g.cs
+++_LayoutWriter.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\_layoutwriter.cshtml.g.cs
+++_ValidationScriptsPartial.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\_validationscriptspartial.cshtml.g.cs
+++Error.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\error.cshtml.g.cs
+++PartialFooter.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\partialfooter.cshtml.g.cs
+++PartialNavbar.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\partialnavbar.cshtml.g.cs
+++PartialUserInfo.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\partialuserinfo.cshtml.g.cs
+++UserLayout.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\userlayout.cshtml.g.cs
+++AddWriterImage.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\writer\addwriterimage.cshtml.g.cs
+++PartialSideBar.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\writer\partialsidebar.cshtml.g.cs
+++Test.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\writer\test.cshtml.g.cs
+++WriterBlog.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\writer\writerblog.cshtml.g.cs
+++WriterEditProfile.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\writer\writereditprofile.cshtml.g.cs
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++CoreDemo.csproj.user
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\coredemo.csproj.user
+++Microsoft.NET.props
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
 ++bootstrap.bundle.min.js
 i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-++AddWriterImage.cshtml
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\views\writer\addwriterimage.cshtml
-++fa134a1f-5528-4535-b170-db94e1b3b79b.jpg
-++3fa71c6f-f2c5-4cc8-a631-346392bda946.jpg
-++b0aec320-7443-4125-86e9-3c6477f853fd.jpg
-++4795e7f4-b316-4f05-8280-bed2665840d1.jpg
-++d32772a2-c91a-46bc-b546-79ea4553ebbe.jpg
-++0ed37b8b-0825-4649-ad0c-94953983da7b.jpg
-i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\wwwroot\writerimagefiles\0ed37b8b-0825-4649-ad0c-94953983da7b.jpg
+++dotnet-aspnet-codegenerator-design.exe
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+++Microsoft.Docker.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\bloglistdashboard\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\categorylist\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\categorylistdashboard\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\commentlistbyblog\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\getlast3blogs\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\numberofblogbywriter\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\statisticsofblog\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\totalnumberofcategory\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\writeraboutondashboard\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\writerlastblog\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\writermessagenotification\default.cshtml.g.cs
+i:{86a0617c-79dd-4572-af67-f0470410d1a4}:c:\users\emrah\onedrive\belgeler\github\blog-project\coredemo\obj\debug\net5.0\razor\views\shared\components\writernotification\default.cshtml.g.cs
